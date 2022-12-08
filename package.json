@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "name": "petsApi",
+    "version": "1.0.0",
+    "description": "Una api que guarda personas y mascotas",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo Error: no test specified  && exit petsApi" 
+    },
+    "keywords": [],
+    "author": "Juan P. Romano & la banda de la 38150",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+
+}
