@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "name": "guiPets",
+    "version": "1.0.0",
+    "description": "Una api que nos devuelve una frase",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo Error: no test specified  && exit guiPets" 
+    },
+    "keywords": [],
+    "author": "Juan P. Romano & la banda de la 38150",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+
+}
